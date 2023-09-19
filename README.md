@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Beatriz</h1>
 <h3 align="center">Former nurse embarking on the world of web development</h3>
 
-<p align="center">- 🌱 I’m currently learning **ruby on rails** </p>
+<p align="center">- 🌱 I’m currently learning **React** </p>
 <p align="center">- Check my recent projects: https://fitseek.co.uk </p>
 <p align="center">- My portfolio https://profilewebdevbea-5fbac305cb81.herokuapp.com/ </p>
 
